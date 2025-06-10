@@ -16,5 +16,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SelimSertbas&show_icons=true&locale=en&layout=compact" alt="SelimSertbas" /></p>
 <h2>🎬 Favori GIF'im</h2>
 <p>
-  <img src="https://media.tenor.com/1Qw2vNhbbXwAAAAC/feyyaz-yi%C4%9Fit-feyyaz.gif" alt="Feyyaz Yiğit Gibi GIF" width="400" />
+  <img src="[https://media.tenor.com/1Qw2vNhbbXwAAAAC/feyyaz-yi%C4%9Fit-feyyaz.gif](https://media.tenor.com/0rrOtUghdF4AAAAM/feyyaz-yigit-fire.gif)" alt="Feyyaz Yiğit Gibi GIF" width="400" />
 </p>
