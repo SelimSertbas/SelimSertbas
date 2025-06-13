@@ -13,6 +13,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNuazlrM3NtMHNqaGh4eWt5c2w3MW4yejdqbjB3cHg3YnVhdThhaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckJF143W1gBS8Hk833/giphy.gif" alt="cool gif" width="300"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-?style=for-the-badge&color=0077B5)](https://www.linkedin.com/in/aselimsertbas)
-[![Website](https://img.shields.io/badge/Website-?style=for-the-badge&color=000000)](https://www.selimsertbas.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aselimsertbas)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.selimsertbas.com)
 
